@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	웹 페이지 연습
+	웹 페이지
 </body>
 </html>
